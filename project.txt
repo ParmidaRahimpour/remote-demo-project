@@ -1,4 +1,4 @@
-Remote responsitory demp project
-Initial version 
-This line was added remotely.
-Local development continues.
+GitHub Pull Request Demo 
+Version 1.0
+this change was added via a Pull Request
+this is the secound update to the pull request.
